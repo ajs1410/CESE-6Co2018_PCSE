@@ -1,0 +1,318 @@
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0024b8 000000ac t uartProcessIRQ
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:100005b4 00000004 b rxIsrCallbackUART0
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:100005b8 00000004 b txIsrCallbackUART0
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:100005bc 00000004 b txIsrCallbackUART2
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:100005c0 00000004 b txIsrCallbackUART3
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a004480 00000048 t lpcUarts
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:100005c4 00000004 b rxIsrCallbackUART2
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:100005c8 00000004 b rxIsrCallbackUART3
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a000300 0000016c t rtcToString
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a00046c 00000020 t stopProgram
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a00048c 00000034 t mountSDCard
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:100000d0 00000228 b fp
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:100002f8 00000230 b fs
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:10000528 00000001 b debugPrint
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1000052c 00000006 b adc2String
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:10000534 00000016 b rtcString
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1000054c 00000006 b adc3String
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:10000554 0000003e b textToWrite
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:10000594 00000006 b adc1String
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0006e4 0000000a t ld_word
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0006f0 00000016 t ld_dword
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a000708 00000008 t st_word
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a000710 00000014 t st_dword
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a000724 00000012 t mem_cpy
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a000738 0000000a t mem_set
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a000744 0000001e t mem_cmp
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a000764 00000010 t chk_chr
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a000774 00000018 t clust2sect
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a00078c 00000024 t ld_clust
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0007b0 00000024 t st_clust
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0007d4 000000d0 t create_name
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0008a4 00000056 t get_ldnumber
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0008fc 00000034 t validate
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a000930 00000054 t sync_window
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a000984 00000034 t move_window
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0009b8 0000007c t check_fs
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a000a34 000002d4 t find_volume
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a000d08 0000010a t put_fat
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a000e14 000000d0 t get_fat
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a000ee4 000000b0 t dir_sdi
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a000f94 000000ca t create_chain
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a001060 0000007c t remove_chain
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0010dc 00000126 t dir_next
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a001204 00000054 t dir_find
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a001258 0000008c t follow_path
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0012e4 0000004c t dir_alloc
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a001330 0000003a t dir_register
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a00136c 0000008c t sync_fs
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1000059c 00000002 b Fsid
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:100005a0 00000004 b FatFs
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a001894 00000004 t chk_power
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a001898 00000024 t SSPSend
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0018bc 00000018 t xmit_spi
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0018f8 0000001c t rcvr_spi
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a001914 00000024 t wait_ready
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a001938 00000018 t deselect
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a001950 00000024 t select_
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a001974 0000007e t send_cmd
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0019f4 0000005c t xmit_datablock
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a001a50 00000064 t rcvr_datablock
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:100005a4 00000001 b pv.10205
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:100005a5 00000001 b Timer1
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:100005a6 00000001 b Timer2
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:100005a7 00000001 b CardType
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:10000000 00000001 d Stat
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:100005a8 00000001 b init.10204
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0020dc 00000010 t clearInterrupt
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0020ec 00000060 t serveInterrupt
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:10000004 00000048 d ultrasonicSensors
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0042e8 00000003 t ultrasonicSensorsIrqMap
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0021fc 0000002c t gpioObtainPinInit
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:10000050 00000004 d ClockSpeed
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a00275c 00000002 t errorOcurred
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a002760 00000002 t doNothing
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:10000054 00000040 d timer_dd
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a002a60 00000040 t Board_LED_Init
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a002aa0 0000003c t Board_TEC_Init
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a002adc 0000003c t Board_GPIO_Init
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a002b18 00000038 t Board_SPI_Init
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a002b50 00000024 t Board_I2C_Init
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a002b74 00000030 t Board_ADC_Init
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0044c8 00000012 t GpioPorts
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0044e4 00000008 t GpioButtons
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0044ec 0000000c t GpioLeds
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0044f8 0000000c t InitClkStates
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a004504 00000098 t pinmuxing
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a002ccc 0000002c t Chip_UART_GetIndex
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a00459c 00000008 t UART_BClock
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0045a4 00000008 t UART_PClock
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a002e70 00000014 t Chip_ADC_GetClockIndex
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a002e84 00000030 t getClkDiv
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a003054 000000a8 t pll_calc_divs
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0030fc 00000104 t pll_get_frac
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a003200 00000048 t Chip_Clock_FindBaseClock
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a00346c 00000022 t Chip_Clock_GetDivRate
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:100005cc 00000008 b audio_usb_pll_freq
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0045b8 0000006c t periph_to_base
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a004624 00000048 t InitClkStates
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0038bc 0000001a t SSP_Write2BFifo
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0038d8 00000018 t SSP_Write1BFifo
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0038f0 0000002a t SSP_Read2BFifo
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a00391c 0000002a t SSP_Read1BFifo
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a003948 00000014 t Chip_SSP_GetClockIndex
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a00395c 00000018 t Chip_SSP_GetPeriphClockIndex
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:10000094 00000038 d i2c
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a080000 a __top_MFlashA512
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a004674 r __exidx_end
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a004674 r _etext
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:20008000 a __top_RamAHB32
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a00466c r __exidx_start
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:20010000 a __top_RamAHB_ETB16
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:10008000 a __top_RamLoc32
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:         U _printf_float
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:2000c000 a __top_RamAHB16
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1008a000 a __top_RamLoc40
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a00466c b __init_array_end
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a00466c b __preinit_array_end
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:100005ec b _pvHeapStart
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1b080000 a __top_MFlashB512
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a00466c b __init_array_start
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a00466c b __preinit_array_start
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a003294 0000001c T Chip_Clock_GetDividerSource
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a003c44 0000002e T __gnu_uldivmod_helper
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0027e0 00000040 T TIMER2_IRQHandler
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a00019c 00000002 W DebugMon_Handler
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0001a8 00000002 W RIT_IRQHandler
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a002f1c 00000016 T Chip_ADC_DeInit
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0001a8 00000002 W ADCHS_IRQHandler
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a003c78 0000029c T __divdi3
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a000114 T __section_table_start
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0001a8 00000002 W FLASH_EEPROM_IRQHandler
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a002170 0000008c T int64ToString
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0001a8 00000002 W I2C0_IRQHandler
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a003820 00000030 T Chip_RTC_GetFullTime
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a00271c 0000003e T delayRead
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:100005b0 00000004 B callBackFuncParams
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a000188 00000002 W HardFault_Handler
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a000000 A __vectors_start__
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a002fe8 0000000c T Chip_ADC_SetResolution
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a002488 00000030 T SysTick_Handler
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a002d4c 00000040 T Chip_UART_SetBaud
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a002954 00000008 T printString
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0001a8 00000002 W SDIO_IRQHandler
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0001a8 00000002 W ATIMER_IRQHandler
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0001a0 00000002 W PendSV_Handler
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a000184 00000002 W NMI_Handler
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a000150 T __data_section_table_end
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0001a8 00000002 W I2C1_IRQHandler
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0001a8 00000002 W UART1_IRQHandler
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0001a8 00000002 W GPIO5_IRQHandler
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0001a8 00000002 W CAN1_IRQHandler
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:53ff3d1a A __valid_user_code_checksum
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a002044 00000034 T rtcRead
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0001a8 00000002 W USB1_IRQHandler
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0001a8 00000002 W I2S0_IRQHandler
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a002820 00000040 T TIMER3_IRQHandler
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0034f8 0000000c T Chip_Clock_GetBaseClocktHz
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a000178 0000000a T UART0_IRQHandler
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0001c8 00000012 T bss_init
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0001a8 00000002 W SGPIO_IRQHandler
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a001ab4 00000158 T disk_initialize
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a003be4 T __aeabi_uldivmod
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:100005ec ? _noinit
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a002628 00000018 T uartWriteString
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:100005e8 00000004 B SystemCoreClock
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a002cf8 00000054 T Chip_UART_Init
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0001a8 00000002 W ADC0_IRQHandler
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a002ec4 00000018 T readAdcVal
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a000194 00000002 W UsageFault_Handler
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0035c0 0000004c T Chip_Clock_GetRate
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0001a8 00000002 W GPIO6_IRQHandler
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a002944 0000000e T printInitUart
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:100005d8 00000008 B tickCounter
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a001c0c 00000014 T disk_status
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a002c54 0000006c T Board_SetupClocking
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0044e0 00000004 T ExtRateIn
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0001a8 00000002 W IntDefaultHandler
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a000300 T __CRP_WORD_END__
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a001d54 00000284 T disk_ioctl
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a002158 0000000a T GPIO1_IRQHandler
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0001a8 00000002 W SSP0_IRQHandler
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0020a8 00000034 T rtcInit
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0002fc 00000004 T CRP_WORD
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a002eb4 0000000e T setStartMode
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a004180 0000004c T __libc_init_array
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a003f14 0000026a T __udivdi3
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a002860 0000008c T adcInit
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0001a8 00000002 W ADC1_IRQHandler
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a002bc8 0000003c T Board_Init
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a003ba8 00000002 T _init
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a000114 T __data_section_table
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a003988 000000b0 T Chip_SSP_RWFrames_Blocking
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0001a8 00000002 W RTC_IRQHandler
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:100005ec B _ebss
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a002ff4 00000026 T Chip_ADC_EnableChannel
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a002764 0000003c T TIMER0_IRQHandler
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a00240c 0000007c T tickInit
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0001a8 00000002 W SPI_IRQHandler
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a003af4 00000030 T Chip_I2C_SetClockRate
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0001a8 00000002 W LCD_IRQHandler
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a003248 0000004c T Chip_Clock_EnableCrystal
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0037f0 0000002e T Chip_RTC_SetFullTime
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a002f34 00000008 T Chip_ADC_ReadValue
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0001ac 0000001a T data_init
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0037d8 00000018 T Chip_RTC_Enable
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a002f94 00000020 T Chip_ADC_SetStartMode
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0027a0 00000040 T TIMER1_IRQHandler
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a003ad0 00000024 T Chip_I2C_Init
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a002640 0000000a T UART2_IRQHandler
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a00295c 00000010 T printEnter
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a003404 00000068 T Chip_Clock_GetMainPLLHz
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0037b4 00000022 T Chip_RTC_ResetClockTickCounter
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a004348 00000136 T gpioPinsInit
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a00260c 0000001a T uartWriteByte
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a003974 00000012 T Chip_SSP_SetClockRate
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a002164 0000000a T GPIO2_IRQHandler
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0028ec 00000058 T adcRead
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0034d4 00000024 T Chip_Clock_GetBaseClock
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a001fd8 0000006c T disk_timerproc
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:100000d0 B _bss
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a002f3c 00000038 T Chip_ADC_ReadStatus
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a002fb4 00000032 T Chip_ADC_SetSampleRate
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a001870 00000024 T f_close
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0026fc 00000020 T delayInit
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0018d4 00000024 T SSPReceive
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0001a8 00000002 W I2S1_IRQHandler
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a003a38 0000003e T Chip_SSP_SetBitRate
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0038b8 00000002 T Chip_GPIO_Init
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0044dc 00000004 T OscRateIn
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a002590 0000007c T uartInit
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:100005ec ? _end_noinit
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:10008000 A _vStackTop
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0004c0 00000008 T diskTickHook
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0001a8 00000002 W SSP1_IRQHandler
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a000178 T __bss_section_table_end
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a002228 0000019c T gpioInit
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0023c4 00000004 T sleepUntilNextInterrupt
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a003870 00000048 T Chip_RTC_Init
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a003c74 00000002 W __aeabi_ldiv0
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0041ec 00000028 T strncat
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0001a8 00000002 W USB0_IRQHandler
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a00358c 00000034 T Chip_Clock_Disable
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0001a8 00000002 W GPIO3_IRQHandler
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0001a8 00000002 W SCT_IRQHandler
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0032b0 0000001c T Chip_Clock_GetDividerDivisor
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0002fc T __CRP_WORD_START__
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0041cc 00000010 T memset
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a00018c 00000002 W MemManage_Handler
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0004c8 0000021c T main
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0017d4 0000009c T f_sync
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0001a8 00000002 W WDT_IRQHandler
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a002658 00000050 T spiInit
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a000198 00000002 W SVC_Handler
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1000004c 00000004 D DWT_CTRL
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a002564 00000018 T uartTxReady
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0013f8 00000058 T f_mount
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0001a8 00000002 W GPIO7_IRQHandler
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a003504 0000003c T Chip_Clock_EnableOpts
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0032cc 000000b8 T Chip_Clock_GetClockInputHz
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a00375c 00000058 T fpuInit
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a003384 00000080 T Chip_Clock_CalcMainPLLValue
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a002c04 0000001c T SystemInit
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0001a8 00000002 W SPIFI_IRQHandler
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0026c4 00000038 T delay
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0001a8 00000002 W QEI_IRQHandler
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a000150 T __bss_section_table
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a003574 00000018 T Chip_Clock_RTCEnable
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a002edc 00000040 T Chip_ADC_Init
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a002c20 00000034 T Board_SetupMuxing
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a002078 00000030 T rtcWrite
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a002d8c 000000e4 T Chip_UART_SetBaudFDR
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0023c8 0000000c T tickRead
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:100005e0 00000008 B tickRateMS
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a00301c 00000022 T Chip_ADC_SetBurstCmd
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0001a8 00000002 W ETH_IRQHandler
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:100005ac 00000004 B tickHookFunction
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:10000000 ? _end_uninit_RESERVED
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a00257c 00000014 T uartTxWrite
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0001a8 00000002 W CAN0_IRQHandler
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:10000000 D _data
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0023d4 00000020 T tickCallbackSet
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a000178 T __section_table_end
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a003a78 00000038 T Chip_SSP_Init
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0001a8 00000002 W GINT0_IRQHandler
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0001a8 00000002 W DAC_IRQHandler
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a002ba4 00000024 T Board_Debug_Init
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a002f74 0000001e T Chip_ADC_Int_SetChannelCmd
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:100000cc D _edata
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a003ab0 00000020 T Chip_I2C_EventHandler
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0001a8 00000002 W M0SUB_IRQHandler
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a00162c 000001a8 T f_write
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a00360c 00000150 T Chip_SetupCoreClock
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a00214c 0000000a T GPIO0_IRQHandler
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a001450 000001dc T f_open
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a001ca8 000000ac T disk_write
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a000000 00000114 T g_pfnVectors
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a003b24 00000084 T ResetISR
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a003040 00000014 T SystemCoreClockUpdate
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a003850 00000020 T Chip_RTC_CalibCounterCmd
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0001a8 00000002 W DMA_IRQHandler
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0001a8 00000002 W EVRT_IRQHandler
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a003c74 00000002 W __aeabi_idiv0
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a000190 00000002 W BusFault_Handler
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0041dc 00000010 T strlen
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a001c20 00000088 T disk_read
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a003540 00000034 T Chip_Clock_Enable
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a00264c 0000000a T UART3_IRQHandler
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0001a8 00000002 W MCPWM_IRQHandler
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a003c14 0000002e T __gnu_ldivmod_helper
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0001a8 00000002 W M0APP_IRQHandler
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a00296c 000000f4 T boardInit
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0001a8 00000002 W GINT1_IRQHandler
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a003bac T __aeabi_ldivmod
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0023f4 00000018 T tickPowerSet
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a003490 00000044 T Chip_Clock_SetBaseClock
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0026a8 0000001c T cyclesCounterInit
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a0001a8 00000002 W GPIO4_IRQHandler
+examples/c/sapi/bare_metal/Eje1_rtc_sd_adc/out/Eje1_rtc_sd_adc.elf:1a002cc0 0000000c T Board_SystemInit
